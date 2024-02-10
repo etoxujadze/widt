@@ -1,0 +1,21 @@
+.box {
+    width: 300px;
+    height: 400px;
+    background-color: #2F8141;
+}
+.name {
+    width: 571px;
+    height: 140px;
+    background-color: #13513B;
+}
+.make {
+    width: 571px;
+    height: 140px;
+    background-color: #E624BB;
+
+}
+.nan {
+    width: 571px;
+    height: 140px;
+    background-color: #55EF0D;
+}
